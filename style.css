@@ -1,0 +1,66 @@
+.logo{
+    width: 72%;
+    padding-left: 15%;
+}
+.navbar {
+    padding:0rem;
+    margin-bottom:2rem;
+  }
+  
+  .dropdown .dropdown-menu {
+    border-radius:0;
+   }
+  .icono_buscar{
+    width: 10%;
+  }
+  .search_group{
+    width: 500px;
+  }
+  .search1{
+    border-radius: 20px 0px 0px 20px;
+  }
+  .search2{
+    border-radius: 0px 20px 20px 0px;
+    border: solid 1px #adb5bd;
+  }
+  .title{
+    font-family: 'Roboto',sans-serif;
+  }
+  .numbers{
+    font-size: 4rem;
+    background: linear-gradient(90deg,rgba(0,212,255,1) 0%,rgba(9,9,121,1) 35%, rgba(2,0,36,1) 100%);
+      -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+     color: transparent;
+  }
+  .boton-card{
+    background-color: rgb(8, 4, 84);
+  }
+  .comillas{
+    transform: rotate(0.5turn);
+  }
+  .formulario{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+  }
+  .cuadro{
+    margin: 40px;
+    padding: 40px;
+    background-color: rgb(2,0,36);
+  }
+  .datos{
+    width: 350px;
+  }
+  .submit{
+    background-color: white;
+    color: rgb(2,0,36);
+    font-weight: 800;
+    border: none;
+    width: 350px;
+    padding: 3%;
+  }
+  .foot{
+    background-color: #041e42;
+  }
+
+  
